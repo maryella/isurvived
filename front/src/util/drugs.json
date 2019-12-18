@@ -1,0 +1,298 @@
+{
+  "raas": {
+    "categoryname": "ACE Inhibitor (or ARB)",
+    "information": "<h3 class=\"font-weight-bold\">How it works</h3><p />These medications work to block a protein in your body called angiotensin, which work to raise your blood pressure by telling your blood vessels to get smaller and tells your body to send other proteins that increase your blood pressure.<br/>ACE Inhibitors prevent angiotensin from becoming active, while ARBs block it from acting.<br />When angiotensin is blocked, it means your blood vessels are more relaxed and your body isn't getting more signals to raise your blood pressure. </p><h3 class=\"font-weight-bold\">Also used in people with</h3><ul><li>Blood pressure</li><li>Diabetes</li><li>Kidney disease</li></ul><h3 class=\"font-weight-bold\">Why do I take it?</h3><ul><li><h4>May help your heart heal</h4><p>A heart attack can seriously damage your heart. Studies have shown that people who take this type of drug can see more improvement in their heart's ability to pump blood to the body. </p></li><li><h4>May help you live longer</h4><p>Studies have shown that people who take this type of drug are less likely to die in the months and years following their heart attack.</p></li><li><h4>May prevent heart failure from worsening</h4><p>Heart attacks damage your heart, which can lead to heart failure. People who take this drug are less likely to see their heart failure get worse.</li></ul><h3 class=\"font-weight-bold\">Side effects and why you might not take it</h3><ul><li><h4>Low Blood Pressure</h4><p>Sometimes these drugs can lower your blood pressure too much.</p></li><li><h4>High Potassium</h4><p>These drugs sometimes cause the potassium in your body to become too high. Your health care provider should check your potassium levels before and a few weeks after starting this type of drug.</p></li><li><h4>Pregnancy</h4><p>These drugs can harm unborn children. Tell your health care team and stop taking this type of drug if you become pregnant.</p></li><li><h4>Kidney Function</h4><p>Rarely, this type of drug can affect your kidneys. This is something else your prescriber should check when your potassium is checked. </p></li> </ul><h3 class=\"font-weight-bold\">Other things to keep in mind</h3><p>ACE Inhibitors (drugs that end in 'pril') can sometimes have other side effects, such as</p><ul><li><h4>Angioedema</h4><p>This is a severe swelling of your face, lips, tongue, or throat. If this happens to you, contact your prescriber immediately and don't take this medication</p></li><li><h4>Dry cough</h4><p>Sometimes these drugs can cause a longlasting dry cough. If this happens to you, contact your prescriber but do not stop the medication unless they tell you too. They will likely want to see you since a cough like this can be caused by many things.</p></li></ul>",
+    "nextcat": "walkthrough/betab",
+    "drugs": {
+      "Lisinopril (Prinivil, Zestril)": {
+        "name": "Lisinopril (Prinivil, Zestril)",
+        "strength": {
+          "2.5": "2.5 mg",
+          "5": "5 mg",
+          "10": "10 mg",
+          "20": "20 mg",
+          "40": "40 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "ns": "no time specified",
+          "qam": "in the morning",
+          "qpm": "in the evening"
+        },
+        "food": {}
+      },
+      "Captopril (Capoten)": {
+        "name": "Captopril (Capoten)",
+        "strength": {
+          "12": "12 mg",
+          "25": "25 mg",
+          "50": "50 mg",
+          "100": "100 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": "one", "two": "two" },
+        "frequency": {
+          "tid": "three times a day"
+        },
+        "timing": {
+          "es": "Take one hour before meals"
+        },
+        "food": {}
+      },
+      "Ramipril (Altace)": {
+        "name": "Ramipril (Altace)",
+        "strength": {
+          "1.25": "1.25 mg",
+          "2.5": "2.5 mg",
+          "5": "5 mg",
+          "10": "10 mg"
+        },
+        "form": "capsule",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day",
+          "bid": "twice a day"
+        },
+        "timing": {
+          "ns": "no time specified",
+          "qam": "in the morning",
+          "qpm": "in the evening"
+        },
+        "food": {}
+      },
+      "Trandolapril (Mavik)": {
+        "name": "Trandolapril (Mavik)",
+        "strength": {
+          "1": "1 mg",
+          "2": "2 mg",
+          "4": "4 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "ns": "no time specified",
+          "qam": "in the morning",
+          "qpm": "in the evening"
+        },
+        "food": {}
+      },
+      "Valsartan (Diovan)": {
+        "name": "Valsartan (Diovan)",
+        "strength": {
+          "40": "40 mg",
+          "80": "80 mg",
+          "160": "160 mg",
+          "320": "320 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "bid": "twice a day"
+        },
+        "timing": {
+          "ns": "no time specified",
+          "qam": "in the morning",
+          "qpm": "in the evening"
+        },
+        "food": {}
+      }
+    }
+  },
+  "betab": {
+    "categoryname": "Beta Blocker",
+    "information": "<h3 class=\"font-weight-bold\">How it works</h3><p>Beta blockers help control your heart rate. You are probably familiar with adrenaline and how it can make your heart race! Beta blockers help prevent adrenaline from telling your heart to beat faster.</p><h3 class=\"font-weight-bold\">Also used in people with</h3><ul><li>High blood pressure</li><li>Arrythmia (irregular heart beat) </li><li>Kidney disease</li></ul><h3 class=\"font-weight-bold\">Why do I take it?</h3><ul><li><h4>Help keep your heart healthy</h4><p>A heart attack can often damage your heart, preventing it from working as well.<br>In turn, your body may tell your heart to beat faster to send more blood to your body.<br>When your heart has to beat faster and work harder, it can further damage your heart.<br>Keeping your heart rate under control can help prevent additional stress on your heart.  </p></li></ul><h3 class=\"font-weight-bold\">Side effects and why you might not take it</h3><ul><li><h4>Low Heart Rate</h4><p>While we want to keep your heart rate under control, sometimes these drugs can lower your heart rate too much.</p></li><li><h4>Low Blood Pressure</h4><p>Sometimes lowering your heart rate can also lower your blood pressure too much. Your prescriber should be carefully monitoring both your heart rate and your blood pressure.</p></li></ul><h3 class=\"font-weight-bold\">Other things to keep in mind</h3><ul><li><h4>Getting to the right dose</h4><p>Many of the side effects of beta blockers will go away as your body learns to tolerate this type of medication. Most people start at a lower dose and then gradually increase the dose to the one that offers them the most benefit. You should work with your doctor to increase your dose of this type of medication at a speed that works for you.</p></li></ul>",
+    "nextcat": "walkthrough/statin",
+    "drugs": {
+      "Metoprolol Tartrate (Lopressor)": {
+        "name": "Metoprolol Tartrate (Lopressor)",
+        "strength": {
+          "25": "25 mg",
+          "37.5": "37.5 mg",
+          "50": "50 mg",
+          "75": "75 mg",
+          "100": "100 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "bid": "twice a day"
+        },
+        "timing": {
+          "twm": "with meals"
+        },
+        "food": {}
+      },
+      "Metoprolol Succinate (Toprol XL)": {
+        "name": "Metoprolol Succinate (Toprol XL)",
+        "strength": {
+          "25": "25 mg",
+          "50": "50 mg",
+          "100": "100 mg",
+          "200": "200 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "pwf": "preferably with meals"
+        },
+        "food": {}
+      },
+      "Carvedilol (Coreg)": {
+        "name": "Carvedilol (Coreg)",
+        "strength": {
+          "3.125": "3.125 mg",
+          "6.5": "6.5 mg",
+          "12.5": "12.5 mg",
+          "25": "25 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "bid": "twice a day"
+        },
+        "timing": {
+          "twf": "with food"
+        },
+        "food": {}
+      },
+      "Carvedilol Extended Release (Coreg CR)": {
+        "name": "Carvedilol Extended Release (Coreg CR)",
+        "strength": {
+          "10": "10 mg",
+          "20": "20 mg",
+          "40": "40 mg",
+          "80": "80 mg"
+        },
+        "form": "capsule",
+        "quantity": { "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "twf": "with food"
+        },
+        "food": {}
+      }
+    }
+  },
+  "statin": {
+    "categoryname": "Statin",
+    "information": "<h3 class=\"font-weight-bold\">How it works</h3><p>Statins prevent your body from making cholesterol, especially LDL cholesterol. LDL cholesterol is usually considered a 'bad cholesterol' because believed to play a large role in causing heart disease. People who have had a heart attack usually want to get their LDL levels very low since they are at higher risk. </p><p>Statins can also lower triglycerides (another type of 'bad' cholesterol) and raise HDL, the 'good' cholesterol. </p><h3 class=\"font-weight-bold\">Also used in people with</h3><ul><li>High cholesterol</li></ul><h3 class=\"font-weight-bold\">Why do I take it?</h3><ul><li><h4>Help keep your blood vessels open</h4><p>High cholesterol levels can cause build up (also called plaques) in your arteries, so they become narrower and blood cannot pass through as easily. Sometimes, these buildups  can break off and then block your blood vessels so your blood can't get through.</p><p>A heart attack is usually caused when one of the blood vessels in your heart is blocked. When your heart doesn't get enough blood flow, that's when your heart struggles to work and damage can occur.</p></li><li><h4>Help you stay healthy</h4><p>Studies have shown that people who take this medication (especially atorvastatin 80 mg) may live longer than those that don't and are less likely to be rehospitalized.</p></li></ul> <h3 class=\"font-weight-bold\">Side effects and why you might not take it</h3><ul><li><h4>Liver Damage</h4><p>Statins can be hard on your liver. Your prescriber should check your liver function before and after starting or increasing your dose of statin.</p></li><li><h4>Muscle Injury</h4><p>Statins can cause muscle soreness in some people. Rarely, they can also damage the muscle. Tell your doctor if your muscles are sore when you wouldn't expect them to be. Sometimes, even more rarely, the muscle damage can be severe. If you have a hard time moving your arms and legs or you notice your urine is dark brown or red (like cola), don't take any more of the medication and contact your provider immediately.</p></li></ul><h3 class=\"font-weight-bold\">Other things to keep in mind</h3><ul><li><h4>Grapefruit</h4><p>Some members of the statin famiy can interact with grapefruit and its juice. Talk with your prescriber about eating or drinking grapefruit juice if you take atorvastatin, lovastatin, or simvastatin.</p><li><h4>Timing</h4><p>Some statins work better when taken at night, because this is when your body makes the most cholesterol. Ask your prescriber or pharmacist if you are not sure when to take your statin.</p></li></ul>",
+    "nextcat": "walkthrough/antip",
+    "drugs": {
+      "Atorvastatin (Lipitor)": {
+        "name": "Atorvastatin (Lipitor)",
+        "strength": {
+          "10": "10 mg",
+          "20": "20 mg",
+          "40": "40 mg",
+          "80": "80 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "qpm": "in the evening",
+          "qam": "in the morning",
+          "ns": "no time specified"
+        },
+        "food": {}
+      },
+      "Rosuvastatin (Crestor)": {
+        "name": "Rosuvastatin (Crestor)",
+        "strength": {
+          "5": "5 mg",
+          "10": "10 mg",
+          "20": "20 mg",
+          "40": "40 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "qpm": "in the evening",
+          "qam": "in the morning",
+          "ns": "no time specified"
+        },
+        "food": {}
+      }
+    }
+  },
+  "antip": {
+    "categoryname": "Antiplatelet",
+    "information": "<h3 class=\"font-weight-bold\">How it works</h3><p>Blood clotting is a pretty complicated process. One factor is platelets, tiny cells in your blood. Platelets look out for damage and stick together when they sense damage, making them clump together and make a clot. Antiplatelets lessen platelets' ability to sense that damage and stick together.</p><h3 class=\"font-weight-bold\">Why do I take it?</h3><ul><li><h4>Help keep your blood vessels open</h4><p>Blood clots are often what blocks the arteries to your heart, causing a heart attack. Antiplatelets help keep your blood from clotting as easily. They also help keep any stents you may have gotten open. </li></ul>  </p><h3 class=\"font-weight-bold\">Side effects and why you might not take it</h3><ul><li><h4>Increased risk of bleeding</h4><p>These medicines reduce your blood's ability to make clots. This can be a good thing when it comes to keeping blood flowing to your heart, but it does come with risks. It means your blood will also have a harder time clotting when you need it to, so any bleeding you have may take longer to stop or be more severe.</p></li></ul><h3 class=\"font-weight-bold\">Other things to keep in mind</h3><ul><li><h4>Aspirin</h4><p>Almost everyone who has a heart attack will starting taking aspirin. Most people will take both a prescription AND aspirin. Talk with your cardiologist and health care team to determine what is right for you.</p><li><h4>Stomach bleeding</h4><p>You are at increased risk of bleeding both inside and outside. Contact your health care team right away if you have severe stomach pain, blood when you vomit (or vomit that looks like coffee grounds), blood in your urine or poop, or if your poop is black and looks like tar.</p></li></ul>",
+    "nextcat": "loggedin/dashboard",
+    "drugs": {
+      "Clopidogrel (Plavix)": {
+        "name": "Clopidogrel (Plavix)",
+        "strength": {
+          "75": "75 mg"
+        },
+        "form": "tablet",
+        "quantity": {
+          "half": "one half",
+          "one": "one"
+        },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "qpm": "in the evening",
+          "qam": "in the morning",
+          "ns": "no time specified"
+        },
+        "food": {}
+      },
+      "Prasugrel (Effient)": {
+        "name": "Prasugrel (Effient)",
+        "strength": {
+          "5": "5 mg",
+          "10": "10 mg"
+        },
+        "form": "tablet",
+        "quantity": { "half": "one half", "one": 1, "two": 2 },
+        "frequency": {
+          "qd": "once a day"
+        },
+        "timing": {
+          "qpm": "in the evening",
+          "qam": "in the morning",
+          "ns": "no time specified"
+        },
+        "food": {}
+      },
+      "Ticagrelor (Brilinta)": {
+        "name": "Ticagrelor (Brilinta)",
+        "strength": {
+          "90": "90 mg",
+          "60": "60 mg"
+        },
+        "form": "tablet",
+        "quantity": { "one": 1 },
+        "frequency": {
+          "bid": "twice a day"
+        },
+        "timing": {
+          "qpm": "in the evening",
+          "qam": "in the morning",
+          "ns": "no time specified"
+        },
+        "food": {}
+      }
+    }
+  }
+}

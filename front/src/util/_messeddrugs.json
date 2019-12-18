@@ -1,0 +1,36 @@
+[{
+  "raas": {
+    "categoryname": "ACE InhibitorARB",
+    "drugs": {
+      "lisinopril": {
+        "name": "Lisinopril",
+        // "strength": { 2: "2.5 mg", 5: "5mg", 10: "10 mg", 20: "20 mg" },
+        // "quantity": { 5: "one half", 1: "one", 2: "two", 3: "three" },
+        "frequency": {
+          "qd": "once a day",
+          "bid": "twice a day",
+          "tid": "three times a day"
+        },
+        // "timing": {
+        //   "at": "no time specified",
+        //   "qam": "in the morning",
+        //   qpm: "in the evening",
+        //   qn: "at noon"
+        // },
+        // comments: {}
+      },
+      // valsartan: {
+      //   name: "Valsartan",
+      //   strength: { 20: "20 mg", 40: "40 mg", 80: "80 mg", 160: "160 mg" },
+      //   quantity: { 5: "one half", 1: "one", 2: "two", 3: "three" },
+      //   frequency: {
+      //     qd: "once a day",
+      //     bid: "twice a day",
+      //     tid: "three times a day"
+      //   },
+      //   timing: {},
+      //   comments: {}
+      // }
+    }
+  }
+}];

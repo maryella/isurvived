@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #cc0000;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+nav {
+  background-color: #cc0000;
+}
+
+.homelogo {
+  font-size: 2.2em;
+  font-family: "Alatsi", sans-serif;
+}
+
+.dashboard {
+  font-weight: bold;
+}
+
+.pale {
+  background-color: #fcd5d4;
+}
+
+.inputvar {
+  font-size: 1em;
+}
+
+.brightred {
+  background-color: #cc0000;
+  color: #ffffff;
+}
+
+.top {
+  font-family: "Bebas Neue";
+  font-size: 4em;
+}
+
+.eggshell {
+  background-color: #faf9f0;
+}
+
+.footer {
+  opacity: 0.75;
+}
+
+.contentheader {
+  font-family: "Merriweather Sans", sans-serif;
+}
+
+.shadowbox {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.7), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+ul {
+  list-style-type: none;
+}
+
+h3 {
+  margin-top: 2em;
+}
