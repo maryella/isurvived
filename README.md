@@ -1,6 +1,10 @@
 # i Survived: Capstone Project for Digital Crafts
 ### An app to help people manage medications after a heart attack
 
+![Screenshot of Project](https://maryella.dev/images/screenshot_isurvived.png)
+
+React | Express | Node | JSON | Web Token | BootStrap
+
 ### The Premise
 Heart disease is the leading cause of death among Americans. Luckily, there is fairly good evidence showing certain can help people who have had heart attacks live longer, healthier lives. However, there are four main types of drugs recommended for most people after a heart attack. It's easy to see why people may feel overwhelmed by all these new medications. Addtionally, our health care providers may not have time to explain each medication and why it's important. 
 
